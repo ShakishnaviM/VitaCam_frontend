@@ -1,10 +1,12 @@
 import React from 'react'
 import { Text } from 'react-native'
 
-export default function Landing() {
+export default function home() {
   return (
     <div>
-      <Text> Landing page</Text>
+      <Text>
+        Welcome to vitacam
+      </Text>
     </div>
   )
 }
