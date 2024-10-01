@@ -5,7 +5,7 @@ export default function home() {
   return (
     <div>
       <Text>
-        Welcome to vitacam
+        Welcome to home treatments
       </Text>
     </div>
   )
